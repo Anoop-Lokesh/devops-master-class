@@ -7,3 +7,4 @@ Rotary Engines
 EC Engines
 Reciprocating Engines
 Flat Engines
+Spark Ignition Engines
